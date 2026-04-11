@@ -18,7 +18,7 @@ The system runs a **Random Forest** model directly on an **ESP32-C3 Super Mini**
 <img src="imagenes/watch.jpeg" width="500">
 
 ### Wiring
-<img src="imagenes/diagrama.png" width="500">
+<img src="imagenes/diagram.png" width="500">
 
 ## 📁 Repository Structure
 * `/datos`: Contains raw data in JSON format extracted via Edge Impulse (8+ minutes of movement).
