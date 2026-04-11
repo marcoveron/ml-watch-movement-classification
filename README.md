@@ -14,11 +14,11 @@ The system runs a **Random Forest** model directly on an **ESP32-C3 Super Mini**
 * MPU6050 Accelerometer and Gyroscope Module
 * Jumper Wires 
 
-### The Watch (ESP 32 C3 Super Mini + MPU-6050)
-<img src="imagenes/diagrama.png" width="500" alt="Diagrama de conexiones ESP32-C3 y MPU6050">
+### The Watch (ESP32-C3 Super Mini + MPU-6050)
+<img src="imagenes/watch.jpeg" width="500">
 
 ### Wiring
-![ESP32-C3 and MPU6050 wiring diagram](imagenes/diagram.png)
+<img src="imagenes/diagrama.png" width="500">
 
 ## 📁 Repository Structure
 * `/datos`: Contains raw data in JSON format extracted via Edge Impulse (8+ minutes of movement).
@@ -29,7 +29,7 @@ The system runs a **Random Forest** model directly on an **ESP32-C3 Super Mini**
 ## 📊 Model Results
 The model was trained by extracting statistical metrics (Mean, Standard Deviation, and Magnitude). 
 
-![Model Confusion Matrix](imagenes/model_confusion_matrix.png)
+<img src="imagenes/model_confusion_matrix.png" width="500">
 
 **Achieved Accuracy:** 93%
 
