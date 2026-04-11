@@ -15,10 +15,10 @@ The system runs a **Random Forest** model directly on an **ESP32-C3 Super Mini**
 * Jumper Wires 
 
 ### The Watch (ESP 32 C3 Super Mini + MPU-6050)
-![The Watch](imagenes/watch.png)
+![The Watch](imagenes/watch.jpeg)
 
 ### Wiring
-![ESP32-C3 and MPU6050 wiring diagram](imagenes/diagrama.png)
+![ESP32-C3 and MPU6050 wiring diagram](imagenes/diagram.png)
 
 ## 📁 Repository Structure
 * `/datos`: Contains raw data in JSON format extracted via Edge Impulse (8+ minutes of movement).
