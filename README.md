@@ -15,7 +15,7 @@ The system runs a **Random Forest** model directly on an **ESP32-C3 Super Mini**
 * Jumper Wires 
 
 ### The Watch (ESP 32 C3 Super Mini + MPU-6050)
-![The Watch](imagenes/watch.jpeg)
+<img src="imagenes/diagrama.png" width="500" alt="Diagrama de conexiones ESP32-C3 y MPU6050">
 
 ### Wiring
 ![ESP32-C3 and MPU6050 wiring diagram](imagenes/diagram.png)
