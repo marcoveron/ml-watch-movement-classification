@@ -68,7 +68,7 @@ void loop() {
     int prediccion = clasificador.predict(features);
     
     // El modelo devuelve un número (0, 1, 2, 3...), imprime qué significa
-    Serial.print("Actividad detectada: ");
+    Serial.print("Activity detected: ");
     Serial.println(nombreClases[prediccion]);
     
     // Reiniciar el contador para la próxima ventana
